@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         <title>My Pokedex</title>
-        <link rel="stylesheet" href="poke.css">
+        <link rel="stylesheet" href="https://github.com/fiza2001/my-pokedex/blob/main/poke.css">
         <link href="https://pokeapi.co/api/v2/pokemon/"rel="stylesheet"/>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,6 +26,6 @@
 
        </form>
      </div>
-        <script src="C:\Users\user\Desktop\fiza files\my project\project pokedex\poke.js"></script>
+        <script src=""></script>
     </body>
 </html>
